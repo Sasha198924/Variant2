@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\bin\Debug\net6.0\Вариант4.exe
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\bin\Debug\net6.0\Вариант4.deps.json
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\bin\Debug\net6.0\Вариант4.runtimeconfig.json
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\bin\Debug\net6.0\Вариант4.dll
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\bin\Debug\net6.0\ref\Вариант4.dll
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\bin\Debug\net6.0\Вариант4.pdb
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\obj\Debug\net6.0\Вариант4.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\obj\Debug\net6.0\Вариант4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\obj\Debug\net6.0\Вариант4.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\obj\Debug\net6.0\Вариант4.AssemblyInfo.cs
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\obj\Debug\net6.0\Вариант4.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\obj\Debug\net6.0\Вариант4.dll
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\obj\Debug\net6.0\ref\Вариант4.dll
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\obj\Debug\net6.0\Вариант4.pdb
+C:\Users\Саша\Desktop\учеба\Язык С\вариант 3\Вариант3\Вариант4\obj\Debug\net6.0\Вариант4.genruntimeconfig.cache
